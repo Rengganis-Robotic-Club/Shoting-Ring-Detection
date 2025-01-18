@@ -1,1 +1,1 @@
-# Shooting-Ring-Detection
+# Shoting-Ring-Detection
