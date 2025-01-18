@@ -1,0 +1,10 @@
+train: D:/Documents/AI-Basketball-Shot-Detection-Tracker-master/AI-Basketball-Shot-Detection-Tracker-master/Train The Shot Detection/train
+val: D:/Documents/AI-Basketball-Shot-Detection-Tracker-master/AI-Basketball-Shot-Detection-Tracker-master/Train The Shot Detection/valid
+test: ../test
+
+
+# replace '...' with your local absolute paths
+# download the dataset used here: https://universe.roboflow.com/034-ganesh-kumar-m-v-cs-r2lwe/basketball-lhqoe/dataset/1
+
+nc: 2
+names: ['Basketball', 'Basketball Hoop']
